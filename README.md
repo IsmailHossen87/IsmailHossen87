@@ -1,9 +1,7 @@
 <div align="center">
   <img height="200" src="https://i.ibb.co.com/SN4SMKf/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png"  />
 </div>
-<div align="end">
-  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
-</div>
+
 
 ###
 
@@ -20,6 +18,9 @@
 ###
 
 <p align="left">🌐 HTML, CSS, JavaScript<br>📚 React.js, Redux, Next.js<br>🎨 TailwindCSS, Bootstrap<br>🔧 Git, Firebase, Figma</p>
+<div align="rignt">
+  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
+</div>
 
 ###
 
