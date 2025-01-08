@@ -19,18 +19,28 @@ Hello, I am a Full-stack Developer from Bangladesh. I specialize in building bea
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Skills Section -->
   <div>
-    <p align="left">
-      🌐 HTML, CSS, JavaScript<br />
-      📚 React.js, Redux, Next.js<br />
-      🎨 TailwindCSS, Bootstrap<br />
-      🔧 Git, Firebase, Figma
-    </p>
-  </div>
+ <table>
+  <tr>
+    <!-- Skills Section -->
+    <td>
+      <p align="left">
+        🌐 HTML, CSS, JavaScript<br />
+        📚 React.js, Redux, Next.js<br />
+        🎨 TailwindCSS, Bootstrap<br />
+        🔧 Git, Firebase, Figma
+      </p>
+    </td>
+    
+    <!-- GIF Section -->
+    <td>
+      <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+    </td>
+  </tr>
+</table>
 
-  <!-- GIF Section -->
-  <div>
-    <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  </div>
+
+
+
 </div>
 
 ###
