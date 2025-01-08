@@ -1,51 +1,31 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/SN4SMKf/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" />
+  <img height="200" src="https://i.ibb.co.com/SN4SMKf/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png"  />
+</div>
+<div align="end">
+  <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋, I'm Ismail Hossen!</h1>
+<h1 align="left">"Hey 👋, I'm Ismail Hossen!"</h1>
 
 ###
 
-<h4 align="left">
-Hello, I am a Full-stack Developer from Bangladesh. I specialize in building beautiful, responsive, and user-friendly full-stack applications.
-</h4>
+<h4 align="left">Hello, I am a Full-stack Developer from Bangladesh. I specialize in building beautiful, responsive, and user-friendly full-stack applications.</h4>
 
 ###
 
 <h2 align="left">I code with</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- Skills Section -->
-  <div>
- <table>
-  <tr>
-    <!-- Skills Section -->
-    <td>
-      <p align="left">
-        🌐 HTML, CSS, JavaScript<br />
-        📚 React.js, Redux, Next.js<br />
-        🎨 TailwindCSS, Bootstrap<br />
-        🔧 Git, Firebase, Figma
-      </p>
-    </td>
-    
-    <!-- GIF Section -->
-    <td>
-      <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-    </td>
-  </tr>
-</table>
+###
 
-
-
-
-</div>
+<p align="left">🌐 HTML, CSS, JavaScript<br>📚 React.js, Redux, Next.js<br>🎨 TailwindCSS, Bootstrap<br>🔧 Git, Firebase, Figma</p>
 
 ###
 
 <h2 align="left">About me</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -64,5 +44,7 @@ Hello, I am a Full-stack Developer from Bangladesh. I specialize in building bea
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
