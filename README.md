@@ -12,7 +12,7 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsmailHossen87&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailHossen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailHossen87&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
