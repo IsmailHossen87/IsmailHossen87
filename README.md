@@ -16,9 +16,7 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailHossen87&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailHossen87&theme=radical&cache_seconds=86400" alt="GitHub Streak Stats" />
+
 
   <!-- Trophy Section -->
   <img src="https://github-profile-trophy.vercel.app/?username=IsmailHossen87&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
