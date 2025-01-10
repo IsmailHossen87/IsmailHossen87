@@ -10,10 +10,27 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 ## 🌟 GitHub Stats
 
+## 🌟 GitHub Stats
+
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=IsmailHossen87&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmailHossen87&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailHossen87&theme=radical" alt="GitHub Streak Stats" />
+
+  <!-- Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=IsmailHossen87&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+  <!-- Profile View Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=IsmailHossen87&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  </p>
 </div>
+
 
 ---
 
@@ -53,10 +70,10 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ismailhossen">
+  <a href="https://www.linkedin.com/in/ismailhossen87/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:ismailhossen@example.com">
+  <a href="mailto:ismailhosen8757@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40" alt="Gmail" />
   </a>
 </div>
