@@ -7,7 +7,7 @@
 Hello, I am a **MERN-stack Developer** from Bangladesh.  
 I specialize in building beautiful, responsive, and user-friendly full-stack applications.  
 
-<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" height="200" />
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" height="400" />
 
 ---
 
