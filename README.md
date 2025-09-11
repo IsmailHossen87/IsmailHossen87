@@ -7,7 +7,7 @@
 Hello, I am a **MERN-stack Developer** from Bangladesh.  
 I specialize in building beautiful, responsive, and user-friendly full-stack applications.  
 
-<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" height="400" />
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" height="320" />
 
 ---
 
@@ -27,14 +27,6 @@ I specialize in building beautiful, responsive, and user-friendly full-stack app
   <p>
     <img src="https://komarev.com/ghpvc/?username=IsmailHossen87&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
   </p>
-</div>
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <img src="https://github.com/IsmailHossen87/IsmailHossen87/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
