@@ -4,11 +4,14 @@
 
 # Hey 👋, I'm Ismail Hossen!
 
-Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building beautiful, responsive, and user-friendly full-stack applications.
+Hello, I am a **MERN-stack Developer** from Bangladesh.  
+I specialize in building beautiful, responsive, and user-friendly full-stack applications.  
+
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="100%" height="200" />
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 GitHub Stats  
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -28,7 +31,15 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 ---
 
-## 🚀 I Code With
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/IsmailHossen87/IsmailHossen87/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🚀 I Code With  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
@@ -44,7 +55,7 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 ---
 
-## 📖 Random Dev Quote
+## 📖 Random Dev Quote  
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -52,7 +63,7 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 ---
 
-## 🏆 Workflow Badges
+## 🏆 Workflow Badges  
 
 - ![Build Status](https://img.shields.io/badge/Build-Passing-green?style=flat-square)
 - ![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-blue?style=flat-square)
@@ -61,16 +72,16 @@ Hello, I am a **Full-stack Developer** from Bangladesh. I specialize in building
 
 ---
 
-## 📚 About Me
+## 📚 About Me  
 
-- 🔭 I’m currently working on full-stack web development projects.
-- 🌱 I’m learning advanced React.js and backend development with Node.js and MongoDB.
-- 🤔 I’m looking for opportunities to collaborate on innovative projects.
-- ⚡ Fun fact: I love exploring new technologies and building creative solutions.
+- 🔭 I’m currently working on full-stack web development projects.  
+- 🌱 I’m learning advanced React.js and backend development with Node.js and MongoDB.  
+- 🤔 I’m looking for opportunities to collaborate on innovative projects.  
+- ⚡ Fun fact: I love exploring new technologies and building creative solutions.  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <div align="center">
   <a href="https://portfolio-of-ismailhossen87.vercel.app" target="_blank">
