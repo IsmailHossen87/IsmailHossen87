@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://ibb.co/xtxq8Ftn" />
+  <img height="200" src="https://postimg.cc/1fLbdHdW" />
 </div>
 
 # Hey 👋, I'm Ismail Hossen!
