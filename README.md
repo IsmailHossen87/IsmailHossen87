@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/gMTDj5p/Blue-Green-and-White-Modern-Tech-Web-Developer-Linked-In-Banner.png" />
+  <img height="200" src="https://ibb.co/xtxq8Ftn" />
 </div>
 
 # Hey 👋, I'm Ismail Hossen!
