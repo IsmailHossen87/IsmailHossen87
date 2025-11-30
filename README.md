@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://postimg.cc/1fLbdHdW" />
+  <img height="200" src="https://i.postimg.cc/MpTxv3m8/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 </div>
 
 # Hey 👋, I'm Ismail Hossen!
